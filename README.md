@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou o Genilson Monteiro</h1>
+<h1 align="center">Olá 👋, eu sou: Genilson Monteiro</h1>
 <h3 align="center">Cursando Letras Inglês e em transição de carreira para o mundo da tecnologia pela Trybe</h3>
 
 - 📫 Como me encontrar **genilson255@gmail.com** ou no <a href="https://www.linkedin.com/in/genilson-monteiro-585635186//" target="_blank">**LinkedIn**</a>
