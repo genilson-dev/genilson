@@ -48,8 +48,8 @@
 
 ### 📊 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/genilson-dev&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" align="center" alt="genilson-dev" />
+  <img src="https://github-readme-stats.vercel.app/api?username=genilson-dev&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" align="center" alt="genilson-dev" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/genilson-dev&layout=compact&theme=github_dark" align="center" alt="genilson-dev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genilson-dev&layout=compact&theme=github_dark" align="center" alt="genilson-dev" />
 </div>
