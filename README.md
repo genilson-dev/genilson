@@ -51,10 +51,10 @@
 Aqui estão alguns projetos que desenvolvi:
 
 - [Battleship](https://github.com/genilson-dev/Battleship): Um jogo de batalha naval desenvolvido para praticar lógica de programação e desenvolvimento de interface.
-- [Backend-User](https://github.com/genilson-dev/backend): Um sistema para logar e deslocar usuario
--[Front-End-User](https://github.com/genilson-dev/frontend/tree/main): FontEnd que complementa o backend User
--[VerifyNumber](https://github.com/genilson-dev/VeirificarNumero): Verifica se o numero é Zero, Negativo ou Positivo
--[Fundamento-React](https://github.com/genilson-dev/curso_coder_fundamentos_react): Fundamento Basico do React
+- [Backend-User](https://github.com/genilson-dev/backend): Um sistema para logar e deslocar usuario.
+- [Front-End-User](https://github.com/genilson-dev/frontend/tree/main): FontEnd que complementa o backend User.
+- [VerifyNumber](https://github.com/genilson-dev/VeirificarNumero): Verifica se o numero é Zero, Negativo ou Positivo.
+- [Fundamento-React](https://github.com/genilson-dev/curso_coder_fundamentos_react): Fundamento Basico do React.
 ---
 
 ### 📊 Github Stats
