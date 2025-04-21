@@ -64,6 +64,10 @@ Aqui estão alguns projetos que desenvolvi:
   
 
 - [Fundamento-React](https://github.com/genilson-dev/curso_coder_fundamentos_react): Um projeto introdutório que explora os fundamentos do React, incluindo componentes, estados e props. Perfeito para quem está começando no desenvolvimento de interfaces dinâmicas.
+- 
+- [Maior-Idade](https://github.com/genilson-dev/maior-idade) Este programa tem como objetivo mostrar se uma pessoa tem capacidade de exercer o voto.
+- 
+- [Media-Aluno](https://github.com/genilson-dev/media-aluno) Este programa serve para mostrar a media de aluno bimestral
  
 
 
