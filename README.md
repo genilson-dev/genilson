@@ -46,39 +46,25 @@
 
 ---
 
+
 ### 📂 Projetos
 
 Aqui estão alguns projetos que desenvolvi:
 
-- [Battleship](https://github.com/genilson-dev/Battleship): Um jogo de batalha naval desenvolvido para praticar lógica de programação e desenvolvimento de interface.
-- [Backend-User](https://github.com/genilson-dev/backend): Um sistema para logar e deslocar usuario.
-- [Front-End-User](https://github.com/genilson-dev/frontend/tree/main): FontEnd que complementa o backend User.
-- [VerifyNumber](https://github.com/genilson-dev/VeirificarNumero): Verifica se o numero é Zero, Negativo ou Positivo.
-- [Fundamento-React](https://github.com/genilson-dev/curso_coder_fundamentos_react): Fundamento Basico do React.
----
+- [Battleship](https://github.com/genilson-dev/Battleship): Um jogo de batalha naval interativo, desenvolvido para praticar lógica de programação e habilidades de design de interface. Este projeto inclui funcionalidades como posicionamento estratégico de navios e detecção de acertos e erros, proporcionando uma experiência envolvente para os jogadores.
+  
 
+- [Backend-User](https://github.com/genilson-dev/backend): Um sistema robusto de autenticação e gerenciamento de usuários, construído com tecnologias modernas de backend. Ele permite login seguro e movimentação de usuários, garantindo eficiência e confiabilidade.
+  
 
+- [Front-End-User](https://github.com/genilson-dev/frontend/tree/main): Uma interface de usuário intuitiva e funcional que complementa o sistema Backend-User. Este projeto foca na experiência do usuário, oferecendo navegação fluida e design responsivo.
+  
 
+- [VerifyNumber](https://github.com/genilson-dev/VeirificarNumero): Uma aplicação simples e eficaz que verifica se um número é zero, negativo ou positivo. Ideal para quem busca entender conceitos básicos de lógica e estrutura condicional.
+  
 
-*****************************************************Projetos com imagens
-### 📂 Projetos
-
-Aqui estão alguns projetos que desenvolvi:
-
-- [Battleship](https://github.com/genilson-dev/Battleship): Um jogo de batalha naval desenvolvido para praticar lógica de programação e desenvolvimento de interface.
-  ![Battleship](https://via.placeholder.com/150) <!-- Substitua pelo link da imagem do projeto -->
-
-- [Backend-User](https://github.com/genilson-dev/backend): Um sistema para logar e deslocar usuário.
-  ![Backend-User](https://via.placeholder.com/150) <!-- Substitua pelo link da imagem do projeto -->
-
-- [Front-End-User](https://github.com/genilson-dev/frontend/tree/main): Frontend que complementa o backend User.
-  ![Front-End-User](https://via.placeholder.com/150) <!-- Substitua pelo link da imagem do projeto -->
-
-- [VerifyNumber](https://github.com/genilson-dev/VeirificarNumero): Verifica se o número é Zero, Negativo ou Positivo.
-  ![VerifyNumber](https://via.placeholder.com/150) <!-- Substitua pelo link da imagem do projeto -->
-
-- [Fundamento-React](https://github.com/genilson-dev/curso_coder_fundamentos_react): Fundamento Básico do React.
-  ![Fundamento-React](https://via.placeholder.com/150) <!-- Substitua pelo link da imagem do projeto -->
+- [Fundamento-React](https://github.com/genilson-dev/curso_coder_fundamentos_react): Um projeto introdutório que explora os fundamentos do React, incluindo componentes, estados e props. Perfeito para quem está começando no desenvolvimento de interfaces dinâmicas.
+ 
 
 
 ### 📊 Github Stats
