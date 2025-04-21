@@ -57,6 +57,30 @@ Aqui estão alguns projetos que desenvolvi:
 - [Fundamento-React](https://github.com/genilson-dev/curso_coder_fundamentos_react): Fundamento Basico do React.
 ---
 
+
+
+
+*****************************************************Projetos com imagens
+### 📂 Projetos
+
+Aqui estão alguns projetos que desenvolvi:
+
+- [Battleship](https://github.com/genilson-dev/Battleship): Um jogo de batalha naval desenvolvido para praticar lógica de programação e desenvolvimento de interface.
+  ![Battleship](https://via.placeholder.com/150) <!-- Substitua pelo link da imagem do projeto -->
+
+- [Backend-User](https://github.com/genilson-dev/backend): Um sistema para logar e deslocar usuário.
+  ![Backend-User](https://via.placeholder.com/150) <!-- Substitua pelo link da imagem do projeto -->
+
+- [Front-End-User](https://github.com/genilson-dev/frontend/tree/main): Frontend que complementa o backend User.
+  ![Front-End-User](https://via.placeholder.com/150) <!-- Substitua pelo link da imagem do projeto -->
+
+- [VerifyNumber](https://github.com/genilson-dev/VeirificarNumero): Verifica se o número é Zero, Negativo ou Positivo.
+  ![VerifyNumber](https://via.placeholder.com/150) <!-- Substitua pelo link da imagem do projeto -->
+
+- [Fundamento-React](https://github.com/genilson-dev/curso_coder_fundamentos_react): Fundamento Básico do React.
+  ![Fundamento-React](https://via.placeholder.com/150) <!-- Substitua pelo link da imagem do projeto -->
+
+
 ### 📊 Github Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=genilson-dev&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" align="center" alt="genilson-dev" />
