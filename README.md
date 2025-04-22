@@ -52,17 +52,11 @@
 Aqui estão alguns projetos que desenvolvi:
 
 - [Battleship](https://github.com/genilson-dev/Battleship): Um jogo de batalha naval interativo, desenvolvido para praticar lógica de programação e habilidades de design de interface. Este projeto inclui funcionalidades como posicionamento estratégico de navios e detecção de acertos e erros, proporcionando uma experiência envolvente para os jogadores.  
-
 - [Backend-User](https://github.com/genilson-dev/backend): Um sistema robusto de autenticação e gerenciamento de usuários, construído com tecnologias modernas de backend. Ele permite login seguro e movimentação de usuários, garantindo eficiência e confiabilidade.  
-
 - [Front-End-User](https://github.com/genilson-dev/frontend/tree/main): Uma interface de usuário intuitiva e funcional que complementa o sistema Backend-User. Este projeto foca na experiência do usuário, oferecendo navegação fluida e design responsivo.  
-
 - [VerifyNumber](https://github.com/genilson-dev/VeirificarNumero): Uma aplicação simples e eficaz que verifica se um número é zero, negativo ou positivo. Ideal para quem busca entender conceitos básicos de lógica e estrutura condicional.  
-
-- [Fundamento-React](https://github.com/genilson-dev/curso_coder_fundamentos_react): Um projeto introdutório que explora os fundamentos do React, incluindo componentes, estados e props. Perfeito para quem está começando no desenvolvimento de interfaces dinâmicas.
-- 
-- [Maior-Idade](https://github.com/genilson-dev/maior-idade) Este programa tem como objetivo mostrar se uma pessoa tem capacidade de exercer o voto.
-- 
+- [Fundamento-React](https://github.com/genilson-dev/curso_coder_fundamentos_react): Um projeto introdutório que explora os fundamentos do React, incluindo componentes, estados e props. Perfeito para quem está começando no desenvolvimento de interfaces dinâmicas. 
+- [Maior-Idade](https://github.com/genilson-dev/maior-idade) Este programa tem como objetivo mostrar se uma pessoa tem capacidade de exercer o voto.- 
 - [Media-Aluno](https://github.com/genilson-dev/media-aluno) Este programa serve para mostrar a media de aluno bimestral
  
 
